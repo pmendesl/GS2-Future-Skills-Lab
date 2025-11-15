@@ -93,5 +93,3 @@ gcc -o main main.c competencia.c
 *   Leonardo Augusto - RM: 565564
 
 **Turma:** 1CCPF
-
-**Link do Repositório GitHub:** [(https://github.com/pmendesl/GS2-Future-Skills-Lab.git)]
