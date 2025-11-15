@@ -1,6 +1,5 @@
 # GS2-Future-Skills-Lab
-
-# GS-DSA-FutureSkillsLab: O Analista de IA
+Link do vídeo: https://www.youtube.com/watch?v=tFnx3CgwW_E
 
 ## 1. O Problema: TAD Competência Profissional
 
