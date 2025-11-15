@@ -1,6 +1,14 @@
 # GS2-Future-Skills-Lab
 Link do vídeo: https://www.youtube.com/watch?v=tFnx3CgwW_E
 
+## Integrantes do Grupo
+
+*   Alexandre Bertini - RM: 563346
+*   Pedro Mendes - RM: 562242
+*   Leonardo Augusto - RM: 565564
+
+**Turma:** 1CCPF
+
 ## 1. O Problema: TAD Competência Profissional
 
 **Tema:** Future Skills Lab - Inteligência Computacional para o Trabalho do Amanhã
@@ -85,11 +93,3 @@ Para compilar a solução final:
 gcc -o main main.c competencia.c
 ./main
 ```
-
-## Integrantes do Grupo
-
-*   Alexandre Bertini - RM: 563346
-*   Pedro Mendes - RM: 562242
-*   Leonardo Augusto - RM: 565564
-
-**Turma:** 1CCPF
